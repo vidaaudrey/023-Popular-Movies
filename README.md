@@ -1,7 +1,7 @@
 # Swift Popular Movies
 
-**Description:** a simple movie app that demonstrate how to get JSON
-data and dynamically create the corresponding class. [Source Code][]
+**Description:** a simple movie app that demonstrate how to get JSON data and dynamically create the corresponding class. 
+
 [![snapshot][]][snapshot]
 
 **Links:**
@@ -9,7 +9,7 @@ data and dynamically create the corresponding class. [Source Code][]
 -   [Swift + Objc = Magic][]
 -   [Movie Data ][]
 
-[Source Code]: https://github.com/vidaaudrey/023-Popular-Movies
+
 [snapshot]: http://audreyli.me/wp-content/uploads/2015/05/snapshot3.png
 [Swift + Objc = Magic]: https://www.weheartswift.com/swift-objc-magic/
 [Movie Data ]: http://docs.themoviedb.apiary.io/#reference/movies/moviepopular/get
