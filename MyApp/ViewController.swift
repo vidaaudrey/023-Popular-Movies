@@ -32,7 +32,9 @@ class ViewController: UIViewController {
             if let jsonArr = jsonData["results"] as? NSArray {
                 for jsonDictData in jsonArr {
                     if let jsonDict = jsonDictData  as? NSDictionary {
-                        self.movies.append(Movie.fromJSON(jsonDict))
+                        // dynamically create movie class
+                        let movie  = Movie.fromJSON(jsonDict)
+                        self.movies.append(movie)
                     }
                     self.dataSource.items = self.movies
                     self.tableView.reloadData()

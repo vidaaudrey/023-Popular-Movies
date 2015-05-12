@@ -16,7 +16,7 @@ public struct ALFrameworkConfig {
     static let maskBackgroundColor = UIColor.whiteColor()
     
     
-    // Movie Rlated
+    // Movie Related
     public static let OMDBAPIURLPrefix = "http://www.omdbapi.com/?s="
     public static let OMDBAPIKey = "97f4ef30 "
     //example: http://img.omdbapi.com/?i=tt2294629&apikey=97f4ef30
