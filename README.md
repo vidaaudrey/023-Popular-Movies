@@ -10,6 +10,6 @@
 -   [Movie Data ][]
 
 
-[snapshot]: http://audreyli.me/wp-content/uploads/2015/05/snapshot3.png
+[snapshot]: https://raw.githubusercontent.com/vidaaudrey/023-Popular-Movies/master/_snapshot/snapshot.png
 [Swift + Objc = Magic]: https://www.weheartswift.com/swift-objc-magic/
 [Movie Data ]: http://docs.themoviedb.apiary.io/#reference/movies/moviepopular/get

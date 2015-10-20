@@ -358,6 +358,7 @@
 		76EC991A1B028E4D0040E320 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = shomigo.com;
 				TargetAttributes = {
